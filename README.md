@@ -7,6 +7,8 @@ Paper, Course, Video and Article for Deep Learning Quantization
 [[Link]](https://arxiv.org/abs/2106.08295)
 - Wu, Hao, et al. "Integer quantization for deep learning inference: Principles and empirical evaluation."
 arXiv preprint arXiv:2004.09602 (2020). [[Link]](https://arxiv.org/abs/2004.09602)
+- Krishnamoorthi, Raghuraman. "Quantizing deep convolutional networks for efficient inference: A whitepaper." 
+arXiv preprint arXiv:1806.08342 (2018). [[Link]](https://arxiv.org/abs/1806.08342)
 - Jacob, Benoit, et al. "Quantization and training of neural networks for efficient integer-arithmetic-only inference."
 Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
 [[Link]](https://openaccess.thecvf.com/content_cvpr_2018/html/Jacob_Quantization_and_Training_CVPR_2018_paper.html)
