@@ -15,8 +15,14 @@ Proceedings of the IEEE conference on computer vision and pattern recognition. 2
 
 ## Course
 
-- [TinyML and Efficient Deep Learning](https://efficientml.ai/)
-- [Hardware for Machine Learning](https://inst.eecs.berkeley.edu/~ee290-2/sp21/)
+- TinyML and Efficient Deep Learning
+  - [Fall 23](https://hanlab.mit.edu/courses/2023-fall-65940)
+- Hardware for Machine Learning
+  - [Spring 24](https://inst.eecs.berkeley.edu/~ee290-2/sp24)
+  - [Spring 21](https://inst.eecs.berkeley.edu/~ee290-2/sp21)
+- Machine Learning Hardware and Systems
+  - [Spring 24](https://abdelfattah-class.github.io/ece5545/sp24)
+  - [Spring 23](https://abdelfattah-class.github.io/ece5545/sp23)
 
 ## Video
 
